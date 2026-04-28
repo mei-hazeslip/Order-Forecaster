@@ -8,6 +8,29 @@ This project predicts the number of daily customer orders for an online grocery 
 
 The project was inspired by the Rohlik Orders Forecasting Challenge and focuses on building an interpretable machine learning workflow for demand forecasting across multiple warehouses.
 
+## Team
+
+This was a team project completed by:
+
+- Mei (Chien) Hazeslip
+- Xuelian Liu
+- Tianzhu Qin
+- Wenbo Ma
+- Terry Lou
+
+## My Role
+
+I served as the team lead and contributed across project planning, feature engineering, modeling, and presentation.
+
+My responsibilities included:
+
+- Led team coordination by scheduling meetings, communicating project goals, dividing workloads, and consolidating individual contributions into a cohesive final project.
+- Created the project introduction and helped define the business problem of forecasting online grocery orders.
+- Conducted exploratory data analysis on categorical variables, including holiday, warehouse, and calendar-related features.
+- Built reusable feature-engineering classes to apply newly created features consistently across the training and testing datasets.
+- Applied machine learning models to both the full dataset and clustered warehouse groups, including general models and cluster-specific models.
+- Prepared project slides and presented progress during weekly team presentations.
+
 ## Business Problem
 
 Online grocery delivery companies need to prepare enough inventory and delivery capacity to meet customer demand. Poor forecasting can lead to:
