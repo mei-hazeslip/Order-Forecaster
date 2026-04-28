@@ -114,6 +114,4 @@ The business value estimate assumes an average cost impact of $50 per order erro
 .
 ├── order_forecast_MC.ipynb     # Main analysis and modeling notebook
 ├── README.md                   # Project summary
-├── data/                       # Dataset files, if included
-├── figures/                    # Project figures and plots
-└── requirements.txt            # Python dependencies
+
