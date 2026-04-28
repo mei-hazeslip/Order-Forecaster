@@ -1,6 +1,5 @@
-# Order-Forecaster
-
 # Retail Order Forecasting for Online Grocery Delivery
+> **Check out the [interactive project page](https://mei-hazeslip.github.io/order-forecaster.html) for a detailed breakdown and live demo.**
 
 ## Project Overview
 
